@@ -1,0 +1,106 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:700|Inter:400,400italic,700,600");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/629084ea31ce2d6931dba3a6.62908f34c2ecfc770dbf14d4.fAuQscc.hcp.png");
+/* new figma added here */
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700|Inter:400,400italic,700,600");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/629084ea31ce2d6931dba3a6.629084ecb74e2390509ee673.BxZXvPR.hcp.png");
+
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+/* new figma added here */
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+/*  */
+
+* {
+  box-sizing: border-box;
+}
+.file-progress-content {
+  align-items: center;
+  border-radius: 6px;
+  display: flex;
+  gap: 5px;
+  margin-top: 6px;
+  position: relative;
+  width: 498px;
+}
+
+.check-circle-fill {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+.progress-bar {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 6px;
+  position: relative;
+  width: 498px;
+}
+
+.progress-bar-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.progress1 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border-radius: 999px;
+  display: flex;
+  flex: 1;
+  position: relative;
+}
+.bar {
+  background-color: var(--stylebrandmain);
+  border-radius: 999px;
+  flex: 1;
+  height: 6px;
+  min-width: 498px;
+  position: relative;
+}
+.close:focus, .close:hover {
+  opacity: .2 !important;
+}

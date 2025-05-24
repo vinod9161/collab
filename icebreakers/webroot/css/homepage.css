@@ -1,0 +1,1351 @@
+
+.homepage {
+  align-items: center;
+  background-color: var(--alabaster-2);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  /* gap: 42px; */
+  min-height: auto;
+  /* overflow-x: hidden; */
+  width: 100%;
+}
+
+.homepage .flex-row {
+  align-items: center;
+  display: flex;
+  height: 60px;
+  margin-left: 23.0px;
+  margin-top: 22px;
+  min-width: 1217px;
+}
+
+.homepage .button-text {
+  color: var(--stylebackgroundswhite);
+  font-weight: 600;
+  line-height: 21px;
+  margin-top: -1.00px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+.homepage .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.0px;
+  min-height: auto;
+  width: 100%;
+  
+}
+
+.homepage .overlap-group6 {
+  background-image: url(../images/homeHeaderDesign.png);
+  background-size: 100% 100%;
+  height: 689px;
+  /* margin-left: 45.78px; */
+  position: relative;
+  /* width: 1297px; */
+  width: 94%;
+}
+
+.homepage .overlap-group8 {
+  /* height: 620px; */
+  /* left: 29px; */
+  position: absolute;
+  top: 29px;
+  /* width: 1199px; */
+  height: auto;
+  width: 100%;
+}
+
+.homepage .we-believe-that-solu {
+  color: #2e2e2e;
+  font-family: var(--font-family-poppins-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 215px;
+  width: 429px;
+}
+
+.homepage .overlap-group {
+  /* height: 620px; */
+  left: 393px;
+  position: absolute;
+  top: 0;
+  width: 783px;
+  /* height: auto; */
+  width: 68%;
+}
+
+.homepage .vector-1 {
+  height: 304px;
+  left: 164px;
+  position: absolute;
+  top: 235px;
+  width: 383px;
+}
+
+.homepage .ellipse-18 {
+  border: 8px solid;
+  border-color: var(--calypso);
+  border-radius: 148.56px;
+  height: 267px;
+  left: 22px;
+  position: absolute;
+  top: 233px;
+  transform: rotate(-170.93deg);
+  width: 267px;
+}
+
+.homepage .ellipse-15 {
+  height: 229px;
+  left: 40px;
+  position: absolute;
+  top: 252px;
+  width: 229px;
+}
+
+.homepage .ellipse-17 {
+  border: 6px solid;
+  border-color: var(--calypso);
+  border-radius: 71.71px;
+  height: 113px;
+  left: 319px;
+  position: absolute;
+  top: 466px;
+  transform: rotate(-170.93deg);
+  width: 113px;
+}
+
+.homepage .ellipse-16 {
+  height: 85px;
+  left: 334px;
+  position: absolute;
+  top: 480px;
+  width: 85px;
+}
+
+.homepage .ellipse-19 {
+  border: 8px solid;
+  border-color: var(--calypso);
+  border-radius: 215.67px;
+  height: 401px;
+  left: 320px;
+  position: absolute;
+  top: 31px;
+  transform: rotate(-170.93deg);
+  width: 401px;
+}
+
+.homepage .ellipse-14 {
+  height: 362px;
+  left: 340px;
+  position: absolute;
+  top: 51px;
+  width: 362px;
+}
+
+.homepage .revolutionizing-the-creation-of {
+  color: var(--styletextprimary);
+  font-family: var(--font-family-poppins-bold);
+  font-size: 45px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 79px;
+  width: 682px;
+}
+
+.homepage .buttons-2 {
+  align-items: center;
+  background-color: var(--calypso);
+  border: 1px none;
+  border-radius: 54px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  left: 32px;
+  /* overflow: hidden; */
+  padding: 9.5px 24px;
+  position: absolute;
+  top: 362px;
+  width: fit-content;
+}
+
+@media (max-width: 479px) {
+
+  .homepage {
+    align-items: center;
+    background-color: var(--alabaster-2);
+    /* background-color: pink; */
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    min-height: auto;
+    /* overflow-x: hidden; */
+    width: 100%;
+  }
+
+  .homepage .flex-row {
+    align-items: center;
+    display: flex;
+    height: 60px;
+    margin-left: 23.0px;
+    margin-top: 22px;
+    min-width: 1217px;
+  }
+
+  .homepage .button-text {
+    color: var(--stylebackgroundswhite);
+    font-weight: 600;
+    line-height: 21px;
+    margin-top: -1.00px;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  .homepage .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 1.0px;
+    min-height: auto;
+    width: 100%;
+    
+  }
+
+  .homepage .overlap-group6 {
+    background-image: url(../images/homeHeaderDesign.png);
+    background-size: 100% 100%;
+    height: 610px;
+    position: relative;
+    width: 99%;
+  }
+
+  .homepage .overlap-group8 {
+    left: 29px;
+    position: absolute;
+    top: 29px;
+    height: auto;
+    width: 76%;
+  }
+
+  .homepage .we-believe-that-solu {
+    color: #2e2e2e;
+    font-family: var(--font-family-poppins-regular);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 121px;
+    width: 72%;
+  }
+
+  .homepage .overlap-group {
+    height: 443px;
+      left: -128px;
+      position: absolute;
+      top: 135px;
+      width: 783px;
+      width: 100%;
+  }
+
+  .homepage .vector-1 {
+    left: 192px;
+    position: absolute;
+    top: 210px;
+    width: 170px;
+    height: 170px;
+  }
+
+  .homepage .ellipse-18 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 148.56px;
+    height: 115px;
+    left: 139px;
+    position: absolute;
+    top: 252px;
+    transform: rotate(-170.93deg);
+    width: 115px;
+
+  }
+
+  .homepage .ellipse-15 {
+    height: 85px;
+    left: 153px;
+    position: absolute;
+    top: 267px;
+    width: 85px;
+  }
+
+  .homepage .ellipse-17 {
+    border: 6px solid;
+    border-color: var(--calypso);
+    border-radius: 71.71px;
+    height: 85px;
+    left: 272px;
+    position: absolute;
+    top: 318px;
+    transform: rotate(-170.93deg);
+    width: 85px;
+  }
+
+  .homepage .ellipse-16 {
+    height: 60px;
+    left: 284px;
+    position: absolute;
+    top: 331px;
+    width: 60px;
+  }
+
+  .homepage .ellipse-19 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 215.67px;
+    height: 150px;
+    left: 262px;
+    position: absolute;
+    top: 140px;
+    transform: rotate(-170.93deg);
+    width: 150px;
+  }
+
+  .homepage .ellipse-14 {
+    height: 120px;
+    left: 277px;
+    position: absolute;
+    top: 155px;
+    width: 120px;
+  }
+
+  .homepage .revolutionizing-the-creation-of {
+    color: #231f20;
+    font-family: var(--font-family-poppins-bold);
+    font-size: 25px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 0px;
+    width: 85%;
+  }
+
+  .homepage .buttons-2 {
+    align-items: center;
+    background-color: var(--calypso);
+    border: 1px none;
+    border-radius: 54px;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    left: 32px;
+    /* overflow: hidden; */
+    padding: 9.5px 24px;
+    position: absolute;
+    top: 295px;
+    width: fit-content;
+  }
+
+}
+@media (min-width: 479px) {
+
+  .homepage {
+    align-items: center;
+    background-color: var(--alabaster-2);
+    /* background-color: red; */
+    /* background-color: aquamarine; */
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    min-height: auto;
+    /* overflow-x: hidden; */
+    width: 100%;
+  }
+
+  .homepage .flex-row {
+    align-items: center;
+    display: flex;
+    height: 60px;
+    margin-left: 23.0px;
+    margin-top: 22px;
+    min-width: 1217px;
+  }
+
+  .homepage .button-text {
+    color: var(--stylebackgroundswhite);
+    font-weight: 600;
+    line-height: 21px;
+    margin-top: -1.00px;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  .homepage .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 1.0px;
+    min-height: auto;
+    width: 100%;
+    
+  }
+
+  .homepage .overlap-group6 {
+    background-image: url(../images/homeHeaderDesign.png);
+    background-size: 100% 100%;
+    height: 505px;
+    position: relative;
+    width: 99%;
+  }
+
+  .homepage .overlap-group8 {
+    left: 29px;
+    position: absolute;
+    top: 29px;
+    height: auto;
+    width: 92%;
+  }
+
+  .homepage .we-believe-that-solu {
+    color: #2e2e2e;
+    font-family: var(--font-family-poppins-regular);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    /* top: 121px; */
+    top: 37px;
+    width: 72%;
+  }
+
+  .homepage .overlap-group {
+    height: 445px;
+    left: 19px;
+    position: absolute;
+    top: 19px;
+    width: 783px;
+    width: 100%;
+  }
+
+  .homepage .vector-1 {
+    left: 192px;
+    position: absolute;
+    top: 210px;
+    width: 170px;
+    height: 170px;
+  }
+
+  .homepage .ellipse-18 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 148.56px;
+    height: 115px;
+    left: 139px;
+    position: absolute;
+    top: 252px;
+    transform: rotate(-170.93deg);
+    width: 115px;
+
+  }
+
+  .homepage .ellipse-15 {
+    height: 85px;
+    left: 153px;
+    position: absolute;
+    top: 267px;
+    width: 85px;
+  }
+
+  .homepage .ellipse-17 {
+    border: 6px solid;
+    border-color: var(--calypso);
+    border-radius: 71.71px;
+    height: 85px;
+    left: 272px;
+    position: absolute;
+    top: 318px;
+    transform: rotate(-170.93deg);
+    width: 85px;
+  }
+
+  .homepage .ellipse-16 {
+    height: 60px;
+    left: 284px;
+    position: absolute;
+    top: 331px;
+    width: 60px;
+  }
+
+  .homepage .ellipse-19 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 215.67px;
+    height: 150px;
+    left: 262px;
+    position: absolute;
+    top: 140px;
+    transform: rotate(-170.93deg);
+    width: 150px;
+  }
+
+  .homepage .ellipse-14 {
+    height: 120px;
+    left: 277px;
+    position: absolute;
+    top: 155px;
+    width: 120px;
+  }
+
+  .homepage .revolutionizing-the-creation-of {
+    color: #231f20;
+    font-family: var(--font-family-poppins-bold);
+    font-size: 25px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    /* top: 0px; */
+    top: 119px;
+    width: 85%;
+  }
+
+  .homepage .buttons-2 {
+    align-items: center;
+    background-color: var(--calypso);
+    border: 1px none;
+    border-radius: 54px;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    left: 32px;
+    /* overflow: hidden; */
+    padding: 9.5px 24px;
+    position: absolute;
+    top: 265px;
+    width: fit-content;
+  }
+
+}
+
+@media (min-width: 600px) {
+
+  .homepage {
+    align-items: center;
+    background-color: var(--alabaster-2);
+    /* background-color: green; */
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    min-height: auto;
+    /* overflow-x: hidden; */
+    width: 100%;
+  }
+
+  .homepage .flex-row {
+    align-items: center;
+    display: flex;
+    height: 60px;
+    margin-left: 23.0px;
+    margin-top: 22px;
+    min-width: 1217px;
+  }
+
+  .homepage .button-text {
+    color: var(--stylebackgroundswhite);
+    font-weight: 600;
+    line-height: 21px;
+    margin-top: -1.00px;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  .homepage .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 1.0px;
+    min-height: auto;
+    width: 100%;
+    
+  }
+
+  .homepage .overlap-group6 {
+    background-image: url(../images/homeHeaderDesign.png);
+    background-size: 100% 100%;
+    height: 480px;
+    position: relative;
+    width: 99%;
+  }
+
+  .homepage .overlap-group8 {
+    left: 29px;
+    position: absolute;
+    top: 29px;
+    height: auto;
+    width: 92%;
+  }
+
+  .homepage .we-believe-that-solu {
+    color: #2e2e2e;
+    font-family: var(--font-family-poppins-regular);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    /* top: 121px;
+    width: 72%; */
+    top: 50px;
+    width: 54%;
+  }
+
+  .homepage .overlap-group {
+    height: 409px;
+    left: 138px;
+    position: absolute;
+    top: 19px;
+    width: 783px;
+    width: 76%;
+  }
+
+  .homepage .vector-1 {
+    left: 192px;
+    position: absolute;
+    top: 210px;
+    width: 170px;
+    height: 170px;
+  }
+
+  .homepage .ellipse-18 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 148.56px;
+    height: 115px;
+    left: 139px;
+    position: absolute;
+    top: 252px;
+    transform: rotate(-170.93deg);
+    width: 115px;
+
+  }
+
+  .homepage .ellipse-15 {
+    height: 85px;
+    left: 153px;
+    position: absolute;
+    top: 267px;
+    width: 85px;
+  }
+
+  .homepage .ellipse-17 {
+    border: 6px solid;
+    border-color: var(--calypso);
+    border-radius: 71.71px;
+    height: 85px;
+    left: 272px;
+    position: absolute;
+    top: 318px;
+    transform: rotate(-170.93deg);
+    width: 85px;
+  }
+
+  .homepage .ellipse-16 {
+    height: 60px;
+    left: 284px;
+    position: absolute;
+    top: 331px;
+    width: 60px;
+  }
+
+  .homepage .ellipse-19 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 215.67px;
+    height: 150px;
+    left: 262px;
+    position: absolute;
+    top: 140px;
+    transform: rotate(-170.93deg);
+    width: 150px;
+  }
+
+  .homepage .ellipse-14 {
+    height: 120px;
+    left: 277px;
+    position: absolute;
+    top: 155px;
+    width: 120px;
+  }
+
+  .homepage .revolutionizing-the-creation-of {
+    color: #231f20;
+    font-family: var(--font-family-poppins-bold);
+    font-size: 25px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 0px;
+    top: 156px;
+    width: 85%;
+  }
+
+  .homepage .buttons-2 {
+    align-items: center;
+    background-color: var(--calypso);
+    border: 1px none;
+    border-radius: 54px;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    left: 32px;
+    /* overflow: hidden; */
+    padding: 9.5px 24px;
+    position: absolute;
+    top: 265px;
+    width: fit-content;
+  }
+
+}
+@media (min-width: 768px) {
+
+  .homepage {
+    align-items: center;
+    background-color: var(--alabaster-2);
+    /* background-color: yellow; */
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    /* gap: 42px; */
+    min-height: auto;
+    /* overflow-x: hidden; */
+    width: 100%;
+  }
+
+  .homepage .flex-row {
+    align-items: center;
+    display: flex;
+    height: 60px;
+    margin-left: 23.0px;
+    margin-top: 22px;
+    min-width: 1217px;
+  }
+
+  .homepage .button-text {
+    color: var(--stylebackgroundswhite);
+    font-weight: 600;
+    line-height: 21px;
+    margin-top: -1.00px;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  .homepage .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 1.0px;
+    min-height: auto;
+    width: 100%;
+    
+  }
+
+  .homepage .overlap-group6 {
+    background-image: url(../images/homeHeaderDesign.png);
+    background-size: 100% 100%;
+    height: 655px;
+    /* margin-left: 45.78px; */
+    position: relative;
+    /* width: 1297px; */
+    width: 99%;
+  }
+
+  .homepage .overlap-group8 {
+    /* height: 620px; */
+    left: 29px;
+    position: absolute;
+    top: 29px;
+    /* width: 1199px; */
+    height: auto;
+    width: 95%;
+  }
+
+  .homepage .we-believe-that-solu {
+    color: #2e2e2e;
+    font-family: var(--font-family-poppins-regular);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    /* top: 215px; */
+    top: 135px;
+    width: 429px;
+  }
+
+  .homepage .overlap-group {
+    height: 620px;
+    left: 130px;
+    position: absolute;
+    top: 0px;
+    width: 783px;
+    /* height: auto; */
+    width: 83%;
+  }
+
+  .homepage .vector-1 {
+    height: 304px;
+    left: 164px;
+    position: absolute;
+    top: 235px;
+    width: 383px;
+  }
+
+  .homepage .ellipse-18 {
+  
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 148.56px;
+    height: 215px;
+    left: 40px;
+    position: absolute;
+    top: 242px;
+    transform: rotate(-170.93deg);
+    width: 215px;
+
+  }
+
+  .homepage .ellipse-15 {
+    height: 185px;
+    left: 55px;
+    position: absolute;
+    top: 257px;
+    width: 185px;
+  }
+
+  .homepage .ellipse-17 {
+    border: 6px solid;
+    border-color: var(--calypso);
+    border-radius: 71.71px;
+    height: 130px;
+    left: 293px;
+    position: absolute;
+    top: 434px;
+    transform: rotate(-170.93deg);
+    width: 130px;
+  }
+
+  .homepage .ellipse-16 {
+    height: 105px;
+    left: 306px;
+    position: absolute;
+    top: 447px;
+    width: 105px;
+  }
+
+  .homepage .ellipse-19 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 215.67px;
+    height: 300px;
+    left: 300px;
+    position: absolute;
+    top: 134px;
+    transform: rotate(-170.93deg);
+    width: 300px;
+  }
+
+  .homepage .ellipse-14 {
+    height: 270px;
+    left: 315px;
+    position: absolute;
+    top: 149px;
+    width: 270px;
+  }
+
+  .homepage .revolutionizing-the-creation-of {
+color: #231f20;
+    font-family: var(--font-family-poppins-bold);
+    font-size: 45px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    /* top: 79px; */
+    top: 218px;
+    width: 682px;
+  }
+
+  .homepage .buttons-2 {
+    align-items: center;
+    background-color: var(--calypso);
+    border: 1px none;
+    border-radius: 54px;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    left: 32px;
+    /* overflow: hidden; */
+    padding: 9.5px 24px;
+    position: absolute;
+    top: 362px;
+    width: fit-content;
+  }
+
+}
+
+
+@media (min-width: 992px) {
+
+  .homepage {
+    align-items: center;
+    background-color: var(--alabaster-2);
+    /* background-color: red; */
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    min-height: auto;
+    /* overflow-x: hidden; */
+    width: 100%;
+  }
+
+  .homepage .flex-row {
+    align-items: center;
+    display: flex;
+    height: 60px;
+    margin-left: 23.0px;
+    margin-top: 22px;
+    min-width: 1217px;
+  }
+
+  .homepage .button-text {
+    color: var(--stylebackgroundswhite);
+    font-weight: 600;
+    line-height: 21px;
+    margin-top: -1.00px;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  .homepage .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 1.0px;
+    min-height: auto;
+    width: 100%;
+    
+  }
+
+  .homepage .overlap-group6 {
+    background-image: url(../images/homeHeaderDesign.png);
+    background-size: 100% 100%;
+    height: 689px;
+    /* margin-left: 45.78px; */
+    position: relative;
+    /* width: 1297px; */
+    width: 99%;
+  }
+
+  .homepage .overlap-group8 {
+    /* height: 620px; */
+    left: 29px;
+    position: absolute;
+    top: 29px;
+    /* width: 1199px; */
+    height: auto;
+    width: 96%;
+  }
+
+  .homepage .we-believe-that-solu {
+    color: #2e2e2e;
+    font-family: var(--font-family-poppins-regular);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    /* top: 215px;
+    width: 429px; */
+    top: 52px;
+    width: 459px;
+  }
+
+  .homepage .overlap-group {
+    height: 597px;
+    left: 219px;
+    position: absolute;
+    top: 17px;
+    width: 783px;
+    width: 79%;
+  }
+
+  .homepage .vector-1 {
+    height: 304px;
+    left: 164px;
+    position: absolute;
+    top: 235px;
+    width: 383px;
+  }
+
+  .homepage .ellipse-18 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 148.56px;
+    height: 297px;
+    left: 22px;
+    position: absolute;
+    top: 233px;
+    transform: rotate(-170.93deg);
+    width: 297px;
+  }
+
+  .homepage .ellipse-15 {
+    height: 259px;
+    left: 40px;
+    position: absolute;
+    top: 252px;
+    width: 259px;
+  }
+
+  .homepage .ellipse-17 {
+    border: 6px solid;
+    border-color: var(--calypso);
+    border-radius: 71.71px;
+    height: 143px;
+    left: 319px;
+    position: absolute;
+    top: 466px;
+    transform: rotate(-170.93deg);
+    width: 143px;
+  }
+
+  .homepage .ellipse-16 {
+    height: 115px;
+    left: 334px;
+    position: absolute;
+    top: 480px;
+    width: 115px;
+  }
+
+  .homepage .ellipse-19 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 215.67px;
+    height: 400px;
+    left: 340px;
+    position: absolute;
+    top: 63px;
+    transform: rotate(-170.93deg);
+    width: 400px;
+  }
+
+  .homepage .ellipse-14 { 
+    height: 350px;
+    left: 366px;
+    position: absolute;
+    top: 88px;
+    width: 350px;
+  }
+
+  .homepage .revolutionizing-the-creation-of {
+color: #231f20;
+    font-family: var(--font-family-poppins-bold);
+    font-size: 45px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    /* top: 79px; */
+    top: 142px;
+    width: 682px;
+  }
+
+  .homepage .buttons-2 {
+    align-items: center;
+    background-color: var(--calypso);
+    border: 1px none;
+    border-radius: 54px;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    left: 32px;
+    /* overflow: hidden; */
+    padding: 9.5px 24px;
+    position: absolute;
+    top: 362px;
+    width: fit-content;
+  }
+
+}
+
+
+@media (min-width: 1200px) {
+    
+  .homepage {
+    align-items: center;
+    background-color: var(--alabaster-2);
+    /* background-color: green; */
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    /* gap: 42px; */
+    min-height: auto;
+    /* overflow-x: hidden; */
+    width: 100%;
+  }
+
+  .homepage .flex-row {
+    align-items: center;
+    display: flex;
+    height: 60px;
+    margin-left: 23.0px;
+    margin-top: 22px;
+    min-width: 1217px;
+  }
+
+  .homepage .button-text {
+    color: var(--stylebackgroundswhite);
+    font-weight: 600;
+    line-height: 21px;
+    margin-top: -1.00px;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  .homepage .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 1.0px;
+    min-height: auto;
+    width: 100%;
+    
+  }
+
+  .homepage .overlap-group6 {
+    background-image: url(../images/homeHeaderDesign.png);
+    background-size: 100% 100%;
+    height: 689px;
+    /* margin-left: 45.78px; */
+    position: relative;
+    /* width: 1297px; */
+    width: 99%;
+  }
+
+  .homepage .overlap-group8 {
+    /* height: 620px; */
+    left: 29px;
+    position: absolute;
+    top: 29px;
+    /* width: 1199px; */
+    height: auto;
+    width: 97%;
+  }
+
+  .homepage .we-believe-that-solu {
+    color: #2e2e2e;
+    font-family: var(--font-family-poppins-regular);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 73px;
+    width: 456px;;
+  }
+
+  .homepage .overlap-group {
+    /* height: 620px; */
+    left: 402px;
+    position: absolute;
+    top: 0;
+    /* width: 783px; */
+    /* height: auto; */
+    width: 66%;
+  }
+
+  .homepage .vector-1 {
+    height: 304px;
+    left: 164px;
+    position: absolute;
+    top: 235px;
+    width: 383px;
+  }
+
+  .homepage .ellipse-18 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 148.56px;
+    height: 297px;
+    left: 22px;
+    position: absolute;
+    top: 233px;
+    transform: rotate(-170.93deg);
+    width: 297px;
+  }
+
+  .homepage .ellipse-15 {
+    height: 259px;
+    left: 40px;
+    position: absolute;
+    top: 252px;
+    width: 259px;
+  }
+
+  .homepage .ellipse-17 {
+    border: 6px solid;
+    border-color: var(--calypso);
+    border-radius: 71.71px;
+    height: 143px;
+    left: 319px;
+    position: absolute;
+    top: 466px;
+    transform: rotate(-170.93deg);
+    width: 143px;
+  }
+
+  .homepage .ellipse-16 {
+    height: 115px;
+    left: 334px;
+    position: absolute;
+    top: 480px;
+    width: 115px;
+  }
+
+  .homepage .ellipse-19 {
+    border: 8px solid;
+    border-color: var(--calypso);
+    border-radius: 215.67px;
+    height: 431px;
+    left: 320px;
+    position: absolute;
+    top: 31px;
+    transform: rotate(-170.93deg);
+    width: 431px;
+  }
+
+  .homepage .ellipse-14 {
+    height: 392px;
+    left: 340px;
+    position: absolute;
+    top: 51px;
+    width: 392px;
+  }
+
+  .homepage .revolutionizing-the-creation-of {
+color: #231f20;
+    font-family: var(--font-family-poppins-bold);
+    font-size: 45px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    top: 161px;;
+    width: 682px;
+  }
+
+  .homepage .buttons-2 {
+    align-items: center;
+    background-color: var(--calypso);
+    border: 1px none;
+    border-radius: 54px;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    left: 32px;
+    /* overflow: hidden; */
+    padding: 9.5px 24px;
+    position: absolute;
+    top: 362px;
+    width: fit-content;
+  }
+
+}
+@media (min-width: 1400px) {
+  .homepage {
+    /* background-color: yellow; */
+  }
+
+  .homepage .overlap-group {
+    /* height: 620px; */
+    left: 478px;
+    position: absolute;
+    top: 0;
+    width: 783px;
+    height: auto;
+    width: 58%;
+  }
+
+}
+@media (min-width: 1500px) {
+  .homepage {
+    /* background-color: red; */
+  }
+
+  .homepage .overlap-group {
+    /* height: 620px; */
+    left: 523px;
+    position: absolute;
+    top: 0;
+    width: 783px;
+    height: auto;
+    width: 58%;
+  }
+
+}
+@media (min-width: 1600px) {
+  .homepage {
+    /* background-color: yellow; */
+  }
+
+  .homepage .overlap-group {
+    /* height: 620px; */
+    left: 598px;
+    position: absolute;
+    top: 0;
+    width: 783px;
+    height: auto;
+    width: 58%;
+  }
+
+}
+
+@media (min-width: 1700px) {
+  .homepage {
+    /* background-color: red; */
+  }
+
+  .homepage .overlap-group {
+    /* height: 620px; */
+    left: 639px;
+    position: absolute;
+    top: -22px;
+    width: 783px;
+    height: auto;
+    width: 53%;
+  }
+
+}
