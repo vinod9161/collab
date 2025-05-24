@@ -1,0 +1,4 @@
+mySQLUser='collab'
+mySQLPwd='collab123'
+mySQLHost='localhost'
+mySQLDBName='psbrickwinv5'
