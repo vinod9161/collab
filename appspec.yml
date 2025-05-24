@@ -1,0 +1,14 @@
+version: 0.0
+os: linux
+files:
+    - source: ./
+      destination: /var/www/vhosts/collaboration/development-brickwin-ui
+permissions:
+    - object: /var/www/vhosts/collaboration/development-brickwin-ui
+      owner: brick-prod
+      group: www-data
+hooks:
+    BeforeInstall:
+        - location: scripts/beforeInstall.sh
+    AfterInstall:
+        - location: scripts/afterInstall.sh
